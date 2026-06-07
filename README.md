@@ -15,14 +15,20 @@
 
 ## 🛠 Навыки
 
-- Excel / Google Sheets
-- Power Query / Power BI
-- VBA / Google Apps Script
-- Python
-- SQL
-- Telegram Bots
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mysql,github,git" />
+</p>
 
----
+<p>
+  <img src="https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?logo=googlesheets&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Power%20Query-F2C811?logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/VBA-0078D4?logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Apps%20Script-4285F4?logo=googleappsscript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Telegram%20Bots-26A5E4?logo=telegram&logoColor=white" />
+</p>
+
 
 ## 📌 Мои проекты
 
@@ -37,12 +43,6 @@
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KaraQurt&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaraQurt&layout=compact)
-
----
-
 ## 📫 Связь
 
 - Telegram: @abkkrkn
@@ -53,3 +53,6 @@
 <p align="center">
   Спасибо, что заглянул в мой профиль ⭐
 </p>
+
+
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)

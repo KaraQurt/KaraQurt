@@ -37,6 +37,12 @@
 
 ---
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KaraQurt&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaraQurt&layout=compact)
+
+---
+
 ## 📫 Связь
 
 - Telegram: @abkkrkn
